@@ -1,1 +1,33 @@
+# Network Connectivity Troubleshooting Lab
 
+## Objective
+The goal of this lab is to practice diagnosing network connectivity problems using common troubleshooting commands.
+
+## Tools Used
+- Windows Command Prompt
+- Home network
+
+## Commands Used
+- ipconfig
+- ping
+- nslookup
+
+## Steps Performed
+1. Opened Command Prompt
+2. Ran `ipconfig` to check the system IP configuration
+3. Used `ping google.com` to test internet connectivity
+4. Used `nslookup google.com` to verify DNS resolution
+
+## Evidence
+
+### IP Configuration
+![IP Configuration](ipconfig-output.png)
+
+### Ping Test
+![Ping Test](ping-google-test.png)
+
+### DNS Lookup
+![DNS Lookup](nslookup-dns-result.png)
+
+## Result
+The system successfully obtained an IP address, communicated with external servers, and resolved DNS queries.
