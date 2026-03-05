@@ -4,13 +4,13 @@
 Capture and analyze ICMP (ping) traffic in Wireshark to understand how connectivity testing works at the packet level.
 
 ## Tools Used
-- Wireshark
-- Windows Command Prompt
-- Home network
+ Wireshark
+ Windows Command Prompt
+ Home network
 
 ## Commands Used
-- ipconfig /all
-- ping
+ ipconfig /all
+ ping
 
 ## Steps Performed
 1. Verified network configuration using `ipconfig /all`.
