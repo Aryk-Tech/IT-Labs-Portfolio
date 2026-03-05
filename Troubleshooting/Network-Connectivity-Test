@@ -20,6 +20,14 @@ The goal of this lab is to practice diagnosing network connectivity problems usi
 ## Evidence
 Screenshots of command outputs will be added below.
 
+### IP Configuration
+![IP Configuration](../ipconfig-output.png)
+
+### Ping Test
+![Ping Test](../ping-google-test.png)
+
+### DNS Lookup
+![DNS Lookup](../nslookup-dns-result.png)
 
 
 ## Result
