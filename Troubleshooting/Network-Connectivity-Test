@@ -20,5 +20,7 @@ The goal of this lab is to practice diagnosing network connectivity problems usi
 ## Evidence
 Screenshots of command outputs will be added below.
 
+
+
 ## Result
 The system successfully obtained an IP address, communicated with external servers, and resolved DNS queries.
